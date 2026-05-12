@@ -1,5 +1,5 @@
 .portfolio {
-    padding: 120px 15px;
+    padding: 120px 0;
 }
 
 .portfolio .section-title {
@@ -12,15 +12,23 @@
 .portfolio .list {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
     column-gap: 24px;
     row-gap: 48px;
 }
 
+.portfolio .item {
+    width: 360px;
+}
+
 .portfolio-card-content {
     padding-top: 32px;
+    padding-right: 0;
     padding-bottom: 32px;
     padding-left: 16px;
+    border-bottom: 1px solid #e7e9fc;
+    border-left: 1px solid #e7e9fc;
+    border-right: 1px solid #e7e9fc;
 }
 
 .portfolio-card-content .subtitle {

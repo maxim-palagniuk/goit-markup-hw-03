@@ -1,5 +1,5 @@
 .team {
-    padding: 120px 15px;
+    padding: 120px 0;
     background-color: #F4F4FD;
 }
 
@@ -17,8 +17,8 @@
 }
 
 .team .team-img {
-    width: 264;
-    height: 260;
+    width: 264px;
+    height: 260px;
 }
 
 .team-card-content {
