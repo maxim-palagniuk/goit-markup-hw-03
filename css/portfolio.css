@@ -19,16 +19,17 @@
 
 .portfolio .item {
     width: 360px;
+    border-bottom: 1px solid #e7e9fc;
+    border-left: 1px solid #e7e9fc;
+    border-right: 1px solid #e7e9fc;
 }
 
 .portfolio-card-content {
+    width: 360px;
     padding-top: 32px;
     padding-right: 0;
     padding-bottom: 32px;
     padding-left: 16px;
-    border-bottom: 1px solid #e7e9fc;
-    border-left: 1px solid #e7e9fc;
-    border-right: 1px solid #e7e9fc;
 }
 
 .portfolio-card-content .subtitle {

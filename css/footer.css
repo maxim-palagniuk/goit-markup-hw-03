@@ -1,10 +1,13 @@
 .footer {
     background-color: #2E2F42;
     color: #F4F4FD;
+    
+}
+
+.footer-container {
+    background-color: #2E2F42;
+    margin: 0 auto;
     padding: 100px 0;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
 }
 
 .footer-logo {
