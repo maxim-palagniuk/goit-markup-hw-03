@@ -1,0 +1,33 @@
+.footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    padding: 100px 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.footer-logo-span {
+    color: #4D5AE5;
+}
+
+.footer .text {
+    margin: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    width: 264px;
+    height: 72px;
+    max-width: 264px;
+    padding-top: 16px;
+}
