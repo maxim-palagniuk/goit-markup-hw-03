@@ -1,6 +1,9 @@
+.features-section {
+    padding: 120px 0;
+}
+
 .features {
     background-color: #FFFFFF; 
-    padding: 120px 0;
 }
 
 .features .list {

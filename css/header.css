@@ -1,11 +1,14 @@
+header {
+    border-bottom: 1px solid #E7E9FC;
+}
+
 .header {
     background-color: #FFFFFF;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     height: 72px;
     align-items: center;
     flex-wrap: wrap;
-    border-bottom: 1px solid #E7E9FC;
 }
 
 .header-logo {
@@ -23,7 +26,7 @@
 }
 
 .header-nav {
-    margin-right: auto;
+    margin-right: 340px;
 }
 
 .header-nav  .list {
@@ -33,7 +36,8 @@
 
 .header-nav  .link {
     display: flex;
-    height: 72px;
+    padding-top: 24px;
+    padding-bottom: 24px;
     align-items: center;
     line-height: 1.5;
     letter-spacing: 0.02em;

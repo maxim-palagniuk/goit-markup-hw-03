@@ -1,6 +1,6 @@
-.team {
-    padding: 120px 0;
+.team-section {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .team .section-title {
@@ -10,10 +10,10 @@
     letter-spacing: 0.02em;
 }
 
-.team .list {
+.team .list {   
     display: flex;
     gap: 24px;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 .team .item {
