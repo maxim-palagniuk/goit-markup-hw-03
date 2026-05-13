@@ -19,13 +19,14 @@
 
 .portfolio .item {
     width: 360px;
-    border-bottom: 1px solid #e7e9fc;
-    border-left: 1px solid #e7e9fc;
-    border-right: 1px solid #e7e9fc;
 }
 
 .portfolio-card-content {
     padding: 32px 16px;
+    border-top: none;
+    border-right: 1px solid #e7e9fc;
+    border-bottom: 1px solid #e7e9fc;
+    border-left: 1px solid #e7e9fc;
 }
 
 .portfolio-card-content .subtitle {

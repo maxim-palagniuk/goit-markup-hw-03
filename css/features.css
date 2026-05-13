@@ -12,7 +12,7 @@
 }
 
 .features .item {
-    max-width: 264px;
+    flex-basis: 264px;
 }
 
 .features .subtitle {

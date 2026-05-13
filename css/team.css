@@ -12,17 +12,14 @@
 
 .team .list {   
     display: flex;
+    flex-wrap: wrap;
     gap: 24px;
     justify-content: flex-start;
 }
 
 .team .item {
     border-radius: 0 0 4px 4px;
-}
-
-.team .team-img {
     width: 264px;
-    height: 260px;
 }
 
 .team-card-content {
